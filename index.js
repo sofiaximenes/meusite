@@ -8,8 +8,8 @@ app.get('/meu-site', (req, res) => {
 app.get('/meus-fornecedores', (req, res) => {
     res.send('Meus fornecedores!')
   })
-app.get('/meus-clientes', (req, res) => {
-    res.send('Meus clientes!')
+app.get('/meus-clientes-2', (req, res) => {
+    res.send('Meus clientes2!')
   })
   
   
